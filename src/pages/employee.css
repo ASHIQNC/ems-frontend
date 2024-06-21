@@ -1,0 +1,19 @@
+.table__Wrapper {
+  /* height: 80vh; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.search__style {
+  width: 30%;
+}
+
+@media only screen and (max-width: 600px) {
+  .table__Wrapper {
+    /* height: 50vh; */
+  }
+
+  .search__style {
+    width: 87%;
+  }
+}

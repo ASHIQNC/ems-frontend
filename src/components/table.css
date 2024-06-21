@@ -1,0 +1,12 @@
+.table__container-wrapper {
+  margin-top: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  /* .table__container-wrapper {
+    margin-top: 340px;
+  } */
+  /* .table__style {
+    height: 85vh;
+  } */
+}

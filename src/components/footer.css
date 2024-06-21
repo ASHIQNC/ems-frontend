@@ -1,0 +1,13 @@
+.footer__wrapper {
+  background-color: #3df0962a;
+  margin-top: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  .contact__us {
+    display: none;
+  }
+  .send__contact-data {
+    margin-bottom: -70px;
+  }
+}
